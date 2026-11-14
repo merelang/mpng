@@ -1,7 +1,7 @@
 # mpng
 
 A PNG decoder in [Mere](https://merelang.org/) — chunks, zlib, and the five
-scanline filters — with the inflating done by [mgz](https://github.com/284km/mgz),
+scanline filters — with the inflating done by [mgz](https://github.com/merelang/mgz),
 this project's gzip implementation, used as a package.
 
 ```sh
